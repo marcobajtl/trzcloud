@@ -1,0 +1,29 @@
+.ctr {
+  text-align: center;
+}
+
+.flt-right {
+  float: right;
+}
+
+.pw-80 {
+  width: 80%;
+}
+
+.posrel {
+  position: relative;
+}
+
+.navbar ul li {
+  display: inline;
+}
+
+.no-marg {
+  margin-right: 0 !important;
+}
+
+.maincolor-bg {
+  background-color: #212529;
+}
+
+/*# sourceMappingURL=main.css.map */
